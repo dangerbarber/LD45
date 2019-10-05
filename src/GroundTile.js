@@ -1,0 +1,12 @@
+export const DEEP_WATER = 0
+export const SHALLOW_WATER = 1
+export const SAND = 2
+export const GRAVEL = 3
+export const STONE = 4
+export const COBBLE_STONE = 5
+export const DIRT = 6
+export const DRY_GRASS = 7
+export const GRASS = 8
+export const MOSSY_STONE = 9
+export const MOSSY_COBBLE_STONE = 10
+export const FARMLAND = 11
