@@ -1,0 +1,19 @@
+# Webpack compiled files
+/dist
+
+# NPM and dependencies
+/node_modules
+npm-debug.log
+
+# Do not use yarn
+yarn.lock
+yarn-error.log
+
+# Miscellaneous
+.DS_Store
+
+# Jetbrains IDE stuff
+**/.idea/workspace.xml
+**/.idea/tasks.xml
+**/.idea/usage.statistics.xml
+**/*.iws
